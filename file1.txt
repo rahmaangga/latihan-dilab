@@ -1,0 +1,1 @@
+ini file satu buat belajar git sama github bareng commit
