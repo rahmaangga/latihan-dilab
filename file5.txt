@@ -1,1 +1,2 @@
 belajar branch di lab sama commit
+yang tadi udah di merge ga sengaja:)
